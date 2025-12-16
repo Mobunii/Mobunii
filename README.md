@@ -1,10 +1,10 @@
 <h1 align="center"> Hi! I'm Mobunii (￣ω￣)/</h1> 
 <h3 align="center"> I'm a final year Cybersecurity Student at Flinders University and a Web/Software Development enthusiast.</h3>
 
-<p align="left"> My major is Cybersecurity and Networking, however I also dabble in web and software development. I have worked on a few commissioned web dev projects and I'm currently accepting more. To enquire, please email me (E-mail below under 'Contact Me'). 
+<p align="left"> My major is Cybersecurity and Networking, however I also dabble in web and software development. I have worked on a few commissioned web dev projects and I'm currently accepting more. To enquire, please email me (E-mail below under 'Contact Me'). <br>
 </p>
 
-<h3 align="center"> <u>Contact Me</u> </h3>
+<h3 align="center">Contact Me:</h3>
 <p align="center"> nicoleszwambila@icloud.com </p> 
 
 ### Current Study Focus:
