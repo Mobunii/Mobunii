@@ -1,16 +1,21 @@
 <h1 align="center">Hi! I'm Mobunii (￣ω￣)/</h1>
 <h3 align="center">I'm a final year Cybersecurity Student at Flinders University and Software Development enthusiast</h3>
 
-<h3 I’m currently working on:</h3>
+
+<h3 align="left">I'm currently working on:</h3>  
+<p align="left">[Freeware audio player (Octivult)](https://github.com/Mobunii/freeware-audio-player-Octivult-)
+</p>
+
+<h3 align="left">How to reach me:</h3>  
+<p align="left"> Email: nicoleszwambila@icloud.com </p>
   
-<p [Freeware audio player (Octivult)](https://github.com/Mobunii/freeware-audio-player-Octivult-) >
-
-<h3 How to reach me:</h3>
-<p Email: nicoleszwambila@icloud.com >
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Credily profile:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/mobunii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mobunii" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/nicole-zwambila.c0188567" target="blank"></a>
+
+<h3 align="left"> Leetcode profile:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/mobunii" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
