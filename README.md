@@ -4,23 +4,23 @@
 <p align="left"> My major is Cybersecurity and Networking, however I also dabble in web and software development. I have worked on a few commissioned web dev projects and I'm currently accepting more. To enquire, please email me (E-mail below under 'Contact Me'). 
 </p>
 
-### Contact Me:
-<p align="left"> nicoleszwambila@icloud.com </p>
+<h3 align="center"> Contact Me: </h3>
+<p align="center"> nicoleszwambila@icloud.com </p> 
 
 ### Current Study Focus:
-<p align="left"> Integrating security measures into the software development process and strengthening my profficency in PHP and SQL. 
+<p align="left"> Integrating security measures into the software development process and strengthening my profficency in PHP and SQL. Additionally, I'm working on acquiring a compTIA Sec+ certification. ヾ(=`ω´=)ノ”
+
 </p>
 
-### Current Project:
-<p align="left"> **Octivult** - a user friendly freeware audio player that allows users to upload, organsise, and manage mp3 files. The software is supposed to function as a substitute to streaming platforms as in recent years they've become quite problematic. (https://github.com/Mobunii/freeware-audio-player-Octivult-)
+### Current Projects:
+<p align="left"> <strong>Octivult</strong> - a user friendly freeware audio player that allows users to upload, organsise, and manage mp3 files. The software is supposed to function as a substitute to streaming platforms as in recent years they've become quite problematic. (https://github.com/Mobunii/freeware-audio-player-Octivult-)
 </p>
-<p align="left"> **Encryption/Decryption tool** - a tool that encrypts and decrypts data through the implemetation of algorithms like Caesar cipher or AES.  (https://github.com/Mobunii/encryption-decryption-tool-)
+<p align="left"> <strong>Encryption/Decryption tool<strong> - a tool that encrypts and decrypts data through the implemetation of algorithms like Caesar cipher or AES.  (https://github.com/Mobunii/encryption-decryption-tool-)
 </p>
 
 ### Certifications and Badges:
 <p align="left">
-All my cerdentials are logged in cerdly (link below) 
-(https://www.credly.com/users/nicole-zwambila.c0188567)
+All my cerdentials are logged in cerdly (https://www.credly.com/users/nicole-zwambila.c0188567)
 </p>
 
 ### Learning Resources:
@@ -33,7 +33,6 @@ leetcode:
 tryhackme
 (https://tryhackme.com/p/mobunii)
 </p>
-
 
 
 ## Languages and Tools:
