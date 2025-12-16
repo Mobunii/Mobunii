@@ -21,7 +21,9 @@
 </p>
 
 <h3 align="left"> TryHackMe Profile:</h3>
-<a src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4501316" style='border:none;'></a>
+<p align="left">
+(https://tryhackme.com/p/mobunii)
+</p>
 
 
 
