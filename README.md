@@ -1,30 +1,38 @@
-<h1 align="center">Hi! I'm Mobunii (￣ω￣)/</h1>
-<h3 align="center">I'm a final year Cybersecurity Student at Flinders University and Software Development enthusiast</h3>
+<h1 align="center"> Hi! I'm Mobunii (￣ω￣)/</h1>
+<h3 align="center"> I'm a final year Cybersecurity Student at Flinders University and a Web/Software Development enthusiast</h3>
 
+<p align="left"> My major is Cybersecurity and Networking, however I also dabble in web and software development. I have worked on a few commissioned projects and I'm currently accepting more. To enquire, please email me (E-mail below under 'Contact Me'). 
+</p>
 
-## I'm currently working on:
-[Freeware audio player (Octivult)](https://github.com/Mobunii/freeware-audio-player-Octivult-)
+### Contact Me:
+<p align="left"> nicoleszwambila@icloud.com </p>
 
+### Current Study Focus:
+<p align="left"> Integrating security measures into the software development process and strengthening my profficency in PHP and SQL. 
+</p>
 
+### Current Project:
+<p align="left"> **Octivult** - a user friendly freeware audio player that allows users to upload, organsise, and manage mp3 files. The software is supposed to function as a substitute to streaming platforms as in recent years they've become quite problematic. (https://github.com/Mobunii/freeware-audio-player-Octivult-)
+</p>
+<p align="left"> **Encryption/Decryption tool** - a tool that encrypts and decrypts data through the implemetation of algorithms like Caesar cipher or AES.  (https://github.com/Mobunii/encryption-decryption-tool-)
+</p>
 
-## How to reach me:
-<p align="left"> Email: nicoleszwambila@icloud.com </p>
-  
-## Credily profile:
+### Certifications and Badges:
 <p align="left">
+All my cerdentials are logged in cerdly (link below) 
 (https://www.credly.com/users/nicole-zwambila.c0188567)
 </p>
 
-## Leetcode:
+### Learning Resources:
 <p align="left">
+leetcode:
 (https://www.leetcode.com/mobunii) 
 </p>
 
-## TryHackMe:
 <p align="left">
+tryhackme
 (https://tryhackme.com/p/mobunii)
 </p>
-
 
 
 
@@ -33,7 +41,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobunii&show_icons=true&locale=en&layout=compact" alt="mobunii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mobunii&show_icons=true&locale=en" alt="mobunii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobunii&" alt="mobunii" /></p>
 
