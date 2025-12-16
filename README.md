@@ -17,7 +17,7 @@
 
 <h3 align="left"> Leetcode profile:</h3>
 <p align="left">
-("https://www.leetcode.com/mobunii) 
+(https://www.leetcode.com/mobunii) 
 </p>
 
 <h3 align="left"> TryHackMe Profile:</h3>
