@@ -9,13 +9,13 @@
 
 ### Current Study Focus:
 <p align="left"> Integrating security measures into the software development process and strengthening my profficency in PHP and SQL. Additionally, I'm working on acquiring a compTIA Sec+ certification. ヾ(=`ω´=)ノ”
-
 </p>
 
 ### Current Projects:
 <p align="left"> <strong>Octivult</strong> - a user friendly freeware audio player that allows users to upload, organsise, and manage mp3 files. The software is supposed to function as a substitute to streaming platforms as in recent years they've become quite problematic. (https://github.com/Mobunii/freeware-audio-player-Octivult-)
 </p>
-<p align="left"> <strong>Encryption/Decryption tool<strong> - a tool that encrypts and decrypts data through the implemetation of algorithms like Caesar cipher or AES.  (https://github.com/Mobunii/encryption-decryption-tool-)
+
+<p align="left"> <strong>Encryption/Decryption tool</strong> - a tool that encrypts and decrypts data through the implemetation of algorithms like Caesar cipher or AES.  (https://github.com/Mobunii/encryption-decryption-tool-)
 </p>
 
 ### Certifications and Badges:
