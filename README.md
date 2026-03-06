@@ -8,7 +8,9 @@
 <p align="center"> nicoleszwambila@icloud.com </p> 
 
 ### Current Study Focus:
-<p align="left"> Integrating security measures into the software development process and strengthening my profficency with languages like Python, node.js, and bash and practically applying networking theory. Additionally, I'm working on acquiring a compTIA Sec+ certification.ヾ(=`ω´=)ノ”
+<p align="left"> Integrating security measures into the software development process and strengthening my profficency with languages like Python, node.js, and bash and practically applying networking theory. Additionally, I'm working on acquiring a compTIA Sec+ certification.
+  
+  ヾ(=`ω´=)ノ”
 </p>
 
 ### Current Projects:
