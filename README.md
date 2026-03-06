@@ -4,6 +4,7 @@
 <p align="left"> My major is Cybersecurity and Networking. My niches are Network and Application security. I hope to one day become either a full time Application Security or DevSecOps Engineer/Analyst. <br>
 </p>
 
+
 ### Current Study Focus:
 <p align="left"> Integrating security measures into the software development process and strengthening my profficency with languages like Python, node.js, and bash and practically applying networking theory. Additionally, I'm working on acquiring a compTIA Sec+ certification.
   
