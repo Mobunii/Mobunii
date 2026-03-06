@@ -1,21 +1,21 @@
 <h1 align="center"> Hi! I'm Mobunii (￣ω￣)/</h1> 
-<h3 align="center"> I'm a final year Cybersecurity Student at Flinders University and a Web/Software Development enthusiast.</h3>
+<h3 align="center"> I'm a final year Cybersecurity Student at Flinders University.</h3>
 
-<p align="left"> My major is Cybersecurity and Networking, however I also dabble in web and software development. I have worked on a few commissioned web dev projects and I'm currently accepting more. To enquire, please email me (E-mail below under 'Contact Me'). My Cybersecurity niches are network and application security. I hope to one day become either a full time web/software developer, application security engineer or a security analyst. <br>
+<p align="left"> My major is Cybersecurity and Networking. My niches are Network and Application security. I hope to one day become either a full time Application Security or DevSecOps Engineer/Analyst. <br>
 </p>
 
 <h3 align="center">Contact Me:</h3>
 <p align="center"> nicoleszwambila@icloud.com </p> 
 
 ### Current Study Focus:
-<p align="left"> Integrating security measures into the software development process and strengthening my profficency in PHP and SQL. Additionally, I'm working on acquiring a compTIA Sec+ certification. ヾ(=`ω´=)ノ”
+<p align="left"> Integrating security measures into the software development process and strengthening my profficency with Python, node.js., and strengthening my network security skills. Additionally, I'm working on acquiring a compTIA Sec+ certification. ヾ(=`ω´=)ノ”
 </p>
 
 ### Current Projects:
-<p align="left"> <strong>Octivult</strong> - a user friendly freeware audio player that allows users to upload, organsise, and manage mp3 files. The software is supposed to function as a substitute to streaming platforms as in recent years they've become quite problematic. (https://github.com/Mobunii/freeware-audio-player-Octivult-)
+<p align="left"> <strong>Packet Tracer: Network Configuration and Development </strong> - Myriad of entry level labs, where I apply my networking knowledge to build and structure multiple networks using Cisco Packet Tracer CLI and GUI.  (https://github.com/Mobunii/packet-tracer-labs)
 </p>
 
-<p align="left"> <strong>Encryption/Decryption tool</strong> - a tool that encrypts and decrypts data through the implemetation of algorithms like Caesar cipher or AES.  (https://github.com/Mobunii/encryption-decryption-tool-)
+<p align="left"> <strong>SimpleEncryption/Decryption tool</strong> - a tool that encrypts and decrypts data through the implemetation of algorithms like Caesar cipher or AES. (https://github.com/Mobunii/encryption-decryption-tool-)
 </p>
 
 ### Certifications and Badges:
